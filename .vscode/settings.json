@@ -1,0 +1,6 @@
+j{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdbool.h": "c"
+    }
+}
