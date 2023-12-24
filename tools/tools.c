@@ -26,11 +26,6 @@ void swap_long(long *a, long *b) {
 void swap_llong(long long *a, long long *b) {
     long long tmp = *a;
     *a = *b;
-void swap_int(int *a, int *b) {
-    int tmp = *a;
-    *a = *b;
-    *b = tmp;
-}
     *b = tmp;
 }
 
